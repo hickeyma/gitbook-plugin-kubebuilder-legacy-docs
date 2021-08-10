@@ -2,4 +2,4 @@
 
 ## Acknowledgement
 
-Special thanks to Steve Martinelli (stevemar) for working out how to override GitBook templates using plugins.
+Special thanks to [Steve Martinelli](https://github.com/stevemar) for working out how to override GitBook templates using plugins.
