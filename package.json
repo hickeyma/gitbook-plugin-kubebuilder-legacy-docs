@@ -1,0 +1,11 @@
+{
+  "name": "gitbook-plugin-kubebuilder-legacy-docs",
+  "version": "0.1.0",
+  "description": "A gitbook plugin for Kubebuilder legacy docs",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "gitbook": {
+    "properties": {}
+  }
+}
